@@ -1,512 +1,1277 @@
 [
   {
-    "State": "Manufacturing",
-    "Variable": 25444,
+    "Type": "Manufacturing",
+    "Quantity": 25444,
     "Index": 0
   },
   {
-    "State": "Manufacturing",
-    "Variable": 1867,
+    "Type": "Manufacturing",
+    "Quantity": 1867,
     "Index": 1
   },
   {
-    "State": "Manufacturing",
-    "Variable": 20026,
+    "Type": "Manufacturing",
+    "Quantity": 20026,
     "Index": 2
   },
   {
-    "State": "Manufacturing",
-    "Variable": 14010,
+    "Type": "Manufacturing",
+    "Quantity": 14010,
     "Index": 3
   },
   {
-    "State": "Manufacturing",
-    "Variable": 229479,
+    "Type": "Manufacturing",
+    "Quantity": 229479,
     "Index": 4
   },
   {
-    "State": "Manufacturing",
-    "Variable": 19429,
+    "Type": "Manufacturing",
+    "Quantity": 19429,
     "Index": 5
   },
   {
-    "State": "Manufacturing",
-    "Variable": 27665,
+    "Type": "Manufacturing",
+    "Quantity": 27665,
     "Index": 6
   },
   {
-    "State": "Manufacturing",
-    "Variable": 4732,
+    "Type": "Manufacturing",
+    "Quantity": 4732,
     "Index": 7
   },
   {
-    "State": "Manufacturing",
-    "Variable": 238,
+    "Type": "Manufacturing",
+    "Quantity": 238,
     "Index": 8
   },
   {
-    "State": "Manufacturing",
-    "Variable": 38284,
+    "Type": "Manufacturing",
+    "Quantity": 38284,
     "Index": 9
   },
   {
-    "State": "Manufacturing",
-    "Variable": 45153,
+    "Type": "Manufacturing",
+    "Quantity": 45153,
     "Index": 10
   },
   {
-    "State": "Manufacturing",
-    "Variable": 1302,
+    "Type": "Manufacturing",
+    "Quantity": 1302,
     "Index": 11
   },
   {
-    "State": "Manufacturing",
-    "Variable": 6326,
+    "Type": "Manufacturing",
+    "Quantity": 6326,
     "Index": 12
   },
   {
-    "State": "Manufacturing",
-    "Variable": 81372,
+    "Type": "Manufacturing",
+    "Quantity": 81372,
     "Index": 13
   },
   {
-    "State": "Manufacturing",
-    "Variable": 69476,
+    "Type": "Manufacturing",
+    "Quantity": 69476,
     "Index": 14
   },
   {
-    "State": "Manufacturing",
-    "Variable": 25488,
+    "Type": "Manufacturing",
+    "Quantity": 25488,
     "Index": 15
   },
   {
-    "State": "Manufacturing",
-    "Variable": 17489,
+    "Type": "Manufacturing",
+    "Quantity": 17489,
     "Index": 16
   },
   {
-    "State": "Manufacturing",
-    "Variable": 24673,
+    "Type": "Manufacturing",
+    "Quantity": 24673,
     "Index": 17
   },
   {
-    "State": "Manufacturing",
-    "Variable": 39321,
+    "Type": "Manufacturing",
+    "Quantity": 39321,
     "Index": 18
   },
   {
-    "State": "Manufacturing",
-    "Variable": 5668,
+    "Type": "Manufacturing",
+    "Quantity": 5668,
     "Index": 19
   },
   {
-    "State": "Manufacturing",
-    "Variable": 18895,
+    "Type": "Manufacturing",
+    "Quantity": 18895,
     "Index": 20
   },
   {
-    "State": "Manufacturing",
-    "Variable": 40306,
+    "Type": "Manufacturing",
+    "Quantity": 40306,
     "Index": 21
   },
   {
-    "State": "Manufacturing",
-    "Variable": 53524,
+    "Type": "Manufacturing",
+    "Quantity": 53524,
     "Index": 22
   },
   {
-    "State": "Manufacturing",
-    "Variable": 35641,
+    "Type": "Manufacturing",
+    "Quantity": 35641,
     "Index": 23
   },
   {
-    "State": "Manufacturing",
-    "Variable": 13603,
+    "Type": "Manufacturing",
+    "Quantity": 13603,
     "Index": 24
   },
   {
-    "State": "Manufacturing",
-    "Variable": 31395,
+    "Type": "Manufacturing",
+    "Quantity": 31395,
     "Index": 25
   },
   {
-    "State": "Manufacturing",
-    "Variable": 1738,
+    "Type": "Manufacturing",
+    "Quantity": 1738,
     "Index": 26
   },
   {
-    "State": "Manufacturing",
-    "Variable": 10579,
+    "Type": "Manufacturing",
+    "Quantity": 10579,
     "Index": 27
   },
   {
-    "State": "Manufacturing",
-    "Variable": 5377,
+    "Type": "Manufacturing",
+    "Quantity": 5377,
     "Index": 28
   },
   {
-    "State": "Manufacturing",
-    "Variable": 6937,
+    "Type": "Manufacturing",
+    "Quantity": 6937,
     "Index": 29
   },
   {
-    "State": "Manufacturing",
-    "Variable": 46021,
+    "Type": "Manufacturing",
+    "Quantity": 46021,
     "Index": 30
   },
   {
-    "State": "Manufacturing",
-    "Variable": 5199,
+    "Type": "Manufacturing",
+    "Quantity": 5199,
     "Index": 31
   },
   {
-    "State": "Manufacturing",
-    "Variable": 70415,
+    "Type": "Manufacturing",
+    "Quantity": 70415,
     "Index": 32
   },
   {
-    "State": "Manufacturing",
-    "Variable": 87733,
+    "Type": "Manufacturing",
+    "Quantity": 87733,
     "Index": 33
   },
   {
-    "State": "Manufacturing",
-    "Variable": 2649,
+    "Type": "Manufacturing",
+    "Quantity": 2649,
     "Index": 34
   },
   {
-    "State": "Manufacturing",
-    "Variable": 75757,
+    "Type": "Manufacturing",
+    "Quantity": 75757,
     "Index": 35
   },
   {
-    "State": "Manufacturing",
-    "Variable": 15548,
+    "Type": "Manufacturing",
+    "Quantity": 15548,
     "Index": 36
   },
   {
-    "State": "Manufacturing",
-    "Variable": 46486,
+    "Type": "Manufacturing",
+    "Quantity": 46486,
     "Index": 37
   },
   {
-    "State": "Manufacturing",
-    "Variable": 73357,
+    "Type": "Manufacturing",
+    "Quantity": 73357,
     "Index": 38
   },
   {
-    "State": "Manufacturing",
-    "Variable": 3724,
+    "Type": "Manufacturing",
+    "Quantity": 3724,
     "Index": 39
   },
   {
-    "State": "Manufacturing",
-    "Variable": 25106,
+    "Type": "Manufacturing",
+    "Quantity": 25106,
     "Index": 40
   },
   {
-    "State": "Manufacturing",
-    "Variable": 3184,
+    "Type": "Manufacturing",
+    "Quantity": 3184,
     "Index": 41
   },
   {
-    "State": "Manufacturing",
-    "Variable": 38465,
+    "Type": "Manufacturing",
+    "Quantity": 38465,
     "Index": 42
   },
   {
-    "State": "Manufacturing",
-    "Variable": 153204,
+    "Type": "Manufacturing",
+    "Quantity": 153204,
     "Index": 43
   },
   {
-    "State": "Manufacturing",
-    "Variable": 15609,
+    "Type": "Manufacturing",
+    "Quantity": 15609,
     "Index": 44
   },
   {
-    "State": "Manufacturing",
-    "Variable": 2632,
+    "Type": "Manufacturing",
+    "Quantity": 2632,
     "Index": 45
   },
   {
-    "State": "Manufacturing",
-    "Variable": 36951,
+    "Type": "Manufacturing",
+    "Quantity": 36951,
     "Index": 46
   },
   {
-    "State": "Manufacturing",
-    "Variable": 47518,
+    "Type": "Manufacturing",
+    "Quantity": 47518,
     "Index": 47
   },
   {
-    "State": "Manufacturing",
-    "Variable": 6775,
+    "Type": "Manufacturing",
+    "Quantity": 6775,
     "Index": 48
   },
   {
-    "State": "Manufacturing",
-    "Variable": 45247,
+    "Type": "Manufacturing",
+    "Quantity": 45247,
     "Index": 49
   },
   {
-    "State": "Manufacturing",
-    "Variable": 1624,
+    "Type": "Manufacturing",
+    "Quantity": 1624,
     "Index": 50
   },
   {
-    "State": "Education",
-    "Variable": 12957,
+    "Type": "Finance",
+    "Quantity": 25185,
     "Index": 51
   },
   {
-    "State": "Education",
-    "Variable": 2757,
+    "Type": "Finance",
+    "Quantity": 5416,
     "Index": 52
   },
   {
-    "State": "Education",
-    "Variable": 22549,
+    "Type": "Finance",
+    "Quantity": 51282,
     "Index": 53
   },
   {
-    "State": "Education",
-    "Variable": 8432,
+    "Type": "Finance",
+    "Quantity": 14879,
     "Index": 54
   },
   {
-    "State": "Education",
-    "Variable": 133118,
+    "Type": "Finance",
+    "Quantity": 406685,
     "Index": 55
   },
   {
-    "State": "Education",
-    "Variable": 17061,
+    "Type": "Finance",
+    "Quantity": 45343,
     "Index": 56
   },
   {
-    "State": "Education",
-    "Variable": 21758,
+    "Type": "Finance",
+    "Quantity": 69118,
     "Index": 57
   },
   {
-    "State": "Education",
-    "Variable": 4075,
+    "Type": "Finance",
+    "Quantity": 23162,
     "Index": 58
   },
   {
-    "State": "Education",
-    "Variable": 7659,
+    "Type": "Finance",
+    "Quantity": 11226,
     "Index": 59
   },
   {
-    "State": "Education",
-    "Variable": 67777,
+    "Type": "Finance",
+    "Quantity": 161861,
     "Index": 60
   },
   {
-    "State": "Education",
-    "Variable": 30154,
+    "Type": "Finance",
+    "Quantity": 79201,
     "Index": 61
   },
   {
-    "State": "Education",
-    "Variable": 5006,
+    "Type": "Finance",
+    "Quantity": 14840,
     "Index": 62
   },
   {
-    "State": "Education",
-    "Variable": 4422,
+    "Type": "Finance",
+    "Quantity": 9854,
     "Index": 63
   },
   {
-    "State": "Education",
-    "Variable": 54706,
+    "Type": "Finance",
+    "Quantity": 142403,
     "Index": 64
   },
   {
-    "State": "Education",
-    "Variable": 23677,
+    "Type": "Finance",
+    "Quantity": 40311,
     "Index": 65
   },
   {
-    "State": "Education",
-    "Variable": 10755,
+    "Type": "Finance",
+    "Quantity": 27333,
     "Index": 66
   },
   {
-    "State": "Education",
-    "Variable": 10041,
+    "Type": "Finance",
+    "Quantity": 17938,
     "Index": 67
   },
   {
-    "State": "Education",
-    "Variable": 14135,
+    "Type": "Finance",
+    "Quantity": 22415,
     "Index": 68
   },
   {
-    "State": "Education",
-    "Variable": 14951,
+    "Type": "Finance",
+    "Quantity": 26737,
     "Index": 69
   },
   {
-    "State": "Education",
-    "Variable": 6568,
+    "Type": "Finance",
+    "Quantity": 9944,
     "Index": 70
   },
   {
-    "State": "Education",
-    "Variable": 26648,
+    "Type": "Finance",
+    "Quantity": 63883,
     "Index": 71
   },
   {
-    "State": "Education",
-    "Variable": 46553,
+    "Type": "Finance",
+    "Quantity": 89756,
     "Index": 72
   },
   {
-    "State": "Education",
-    "Variable": 37502,
+    "Type": "Finance",
+    "Quantity": 66773,
     "Index": 73
   },
   {
-    "State": "Education",
-    "Variable": 26245,
+    "Type": "Finance",
+    "Quantity": 52870,
     "Index": 74
   },
   {
-    "State": "Education",
-    "Variable": 7567,
+    "Type": "Finance",
+    "Quantity": 12921,
     "Index": 75
   },
   {
-    "State": "Education",
-    "Variable": 23684,
+    "Type": "Finance",
+    "Quantity": 46522,
     "Index": 76
   },
   {
-    "State": "Education",
-    "Variable": 3494,
+    "Type": "Finance",
+    "Quantity": 6370,
     "Index": 77
   },
   {
-    "State": "Education",
-    "Variable": 7211,
+    "Type": "Finance",
+    "Quantity": 15255,
     "Index": 78
   },
   {
-    "State": "Education",
-    "Variable": 7144,
+    "Type": "Finance",
+    "Quantity": 24253,
     "Index": 79
   },
   {
-    "State": "Education",
-    "Variable": 7060,
+    "Type": "Finance",
+    "Quantity": 13106,
     "Index": 80
   },
   {
-    "State": "Education",
-    "Variable": 41650,
+    "Type": "Finance",
+    "Quantity": 113460,
     "Index": 81
   },
   {
-    "State": "Education",
-    "Variable": 6049,
+    "Type": "Finance",
+    "Quantity": 12386,
     "Index": 82
   },
   {
-    "State": "Education",
-    "Variable": 105701,
+    "Type": "Finance",
+    "Quantity": 333404,
     "Index": 83
   },
   {
-    "State": "Education",
-    "Variable": 32216,
+    "Type": "Finance",
+    "Quantity": 75251,
     "Index": 84
   },
   {
-    "State": "Education",
-    "Variable": 2762,
+    "Type": "Finance",
+    "Quantity": 5052,
     "Index": 85
   },
   {
-    "State": "Education",
-    "Variable": 47646,
+    "Type": "Finance",
+    "Quantity": 92939,
     "Index": 86
   },
   {
-    "State": "Education",
-    "Variable": 11048,
+    "Type": "Finance",
+    "Quantity": 20538,
     "Index": 87
   },
   {
-    "State": "Education",
-    "Variable": 14602,
+    "Type": "Finance",
+    "Quantity": 31357,
     "Index": 88
   },
   {
-    "State": "Education",
-    "Variable": 67316,
+    "Type": "Finance",
+    "Quantity": 109905,
     "Index": 89
   },
   {
-    "State": "Education",
-    "Variable": 6367,
+    "Type": "Finance",
+    "Quantity": 11651,
     "Index": 90
   },
   {
-    "State": "Education",
-    "Variable": 11376,
+    "Type": "Finance",
+    "Quantity": 27576,
     "Index": 91
   },
   {
-    "State": "Education",
-    "Variable": 3449,
+    "Type": "Finance",
+    "Quantity": 9755,
     "Index": 92
   },
   {
-    "State": "Education",
-    "Variable": 26582,
+    "Type": "Finance",
+    "Quantity": 39924,
     "Index": 93
   },
   {
-    "State": "Education",
-    "Variable": 77579,
+    "Type": "Finance",
+    "Quantity": 167303,
     "Index": 94
   },
   {
-    "State": "Education",
-    "Variable": 8036,
+    "Type": "Finance",
+    "Quantity": 22879,
     "Index": 95
   },
   {
-    "State": "Education",
-    "Variable": 3262,
+    "Type": "Finance",
+    "Quantity": 4973,
     "Index": 96
   },
   {
-    "State": "Education",
-    "Variable": 28107,
+    "Type": "Finance",
+    "Quantity": 75490,
     "Index": 97
   },
   {
-    "State": "Education",
-    "Variable": 24163,
+    "Type": "Finance",
+    "Quantity": 63201,
     "Index": 98
   },
   {
-    "State": "Education",
-    "Variable": 6271,
+    "Type": "Finance",
+    "Quantity": 7935,
     "Index": 99
   },
   {
-    "State": "Education",
-    "Variable": 24567,
+    "Type": "Finance",
+    "Quantity": 49183,
     "Index": 100
   },
   {
-    "State": "Education",
-    "Variable": 1446,
+    "Type": "Finance",
+    "Quantity": 4233,
     "Index": 101
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 16090,
+    "Index": 102
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 2884,
+    "Index": 103
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 27353,
+    "Index": 104
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 8641,
+    "Index": 105
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 236025,
+    "Index": 106
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 34342,
+    "Index": 107
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 25348,
+    "Index": 108
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 5992,
+    "Index": 109
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 24224,
+    "Index": 110
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 85390,
+    "Index": 111
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 47024,
+    "Index": 112
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 5694,
+    "Index": 113
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 5690,
+    "Index": 114
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 84393,
+    "Index": 115
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 20053,
+    "Index": 116
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 8223,
+    "Index": 117
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 11023,
+    "Index": 118
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 12263,
+    "Index": 119
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 16546,
+    "Index": 120
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 4569,
+    "Index": 121
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 41803,
+    "Index": 122
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 59824,
+    "Index": 123
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 45797,
+    "Index": 124
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 30913,
+    "Index": 125
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 6212,
+    "Index": 126
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 28727,
+    "Index": 127
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 2549,
+    "Index": 128
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 8071,
+    "Index": 129
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 11992,
+    "Index": 130
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 6605,
+    "Index": 131
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 69632,
+    "Index": 132
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 8735,
+    "Index": 133
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 143021,
+    "Index": 134
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 39980,
+    "Index": 135
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 1823,
+    "Index": 136
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 54264,
+    "Index": 137
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 11840,
+    "Index": 138
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 15304,
+    "Index": 139
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 71151,
+    "Index": 140
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 4998,
+    "Index": 141
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 15077,
+    "Index": 142
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 1905,
+    "Index": 143
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 25587,
+    "Index": 144
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 122764,
+    "Index": 145
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 11461,
+    "Index": 146
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 2176,
+    "Index": 147
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 74156,
+    "Index": 148
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 35749,
+    "Index": 149
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 4264,
+    "Index": 150
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 21309,
+    "Index": 151
+  },
+  {
+    "Type": "Buss. Service",
+    "Quantity": 1408,
+    "Index": 152
+  },
+  {
+    "Type": "Education",
+    "Quantity": 12957,
+    "Index": 153
+  },
+  {
+    "Type": "Education",
+    "Quantity": 2757,
+    "Index": 154
+  },
+  {
+    "Type": "Education",
+    "Quantity": 22549,
+    "Index": 155
+  },
+  {
+    "Type": "Education",
+    "Quantity": 8432,
+    "Index": 156
+  },
+  {
+    "Type": "Education",
+    "Quantity": 133118,
+    "Index": 157
+  },
+  {
+    "Type": "Education",
+    "Quantity": 17061,
+    "Index": 158
+  },
+  {
+    "Type": "Education",
+    "Quantity": 21758,
+    "Index": 159
+  },
+  {
+    "Type": "Education",
+    "Quantity": 4075,
+    "Index": 160
+  },
+  {
+    "Type": "Education",
+    "Quantity": 7659,
+    "Index": 161
+  },
+  {
+    "Type": "Education",
+    "Quantity": 67777,
+    "Index": 162
+  },
+  {
+    "Type": "Education",
+    "Quantity": 30154,
+    "Index": 163
+  },
+  {
+    "Type": "Education",
+    "Quantity": 5006,
+    "Index": 164
+  },
+  {
+    "Type": "Education",
+    "Quantity": 4422,
+    "Index": 165
+  },
+  {
+    "Type": "Education",
+    "Quantity": 54706,
+    "Index": 166
+  },
+  {
+    "Type": "Education",
+    "Quantity": 23677,
+    "Index": 167
+  },
+  {
+    "Type": "Education",
+    "Quantity": 10755,
+    "Index": 168
+  },
+  {
+    "Type": "Education",
+    "Quantity": 10041,
+    "Index": 169
+  },
+  {
+    "Type": "Education",
+    "Quantity": 14135,
+    "Index": 170
+  },
+  {
+    "Type": "Education",
+    "Quantity": 14951,
+    "Index": 171
+  },
+  {
+    "Type": "Education",
+    "Quantity": 6568,
+    "Index": 172
+  },
+  {
+    "Type": "Education",
+    "Quantity": 26648,
+    "Index": 173
+  },
+  {
+    "Type": "Education",
+    "Quantity": 46553,
+    "Index": 174
+  },
+  {
+    "Type": "Education",
+    "Quantity": 37502,
+    "Index": 175
+  },
+  {
+    "Type": "Education",
+    "Quantity": 26245,
+    "Index": 176
+  },
+  {
+    "Type": "Education",
+    "Quantity": 7567,
+    "Index": 177
+  },
+  {
+    "Type": "Education",
+    "Quantity": 23684,
+    "Index": 178
+  },
+  {
+    "Type": "Education",
+    "Quantity": 3494,
+    "Index": 179
+  },
+  {
+    "Type": "Education",
+    "Quantity": 7211,
+    "Index": 180
+  },
+  {
+    "Type": "Education",
+    "Quantity": 7144,
+    "Index": 181
+  },
+  {
+    "Type": "Education",
+    "Quantity": 7060,
+    "Index": 182
+  },
+  {
+    "Type": "Education",
+    "Quantity": 41650,
+    "Index": 183
+  },
+  {
+    "Type": "Education",
+    "Quantity": 6049,
+    "Index": 184
+  },
+  {
+    "Type": "Education",
+    "Quantity": 105701,
+    "Index": 185
+  },
+  {
+    "Type": "Education",
+    "Quantity": 32216,
+    "Index": 186
+  },
+  {
+    "Type": "Education",
+    "Quantity": 2762,
+    "Index": 187
+  },
+  {
+    "Type": "Education",
+    "Quantity": 47646,
+    "Index": 188
+  },
+  {
+    "Type": "Education",
+    "Quantity": 11048,
+    "Index": 189
+  },
+  {
+    "Type": "Education",
+    "Quantity": 14602,
+    "Index": 190
+  },
+  {
+    "Type": "Education",
+    "Quantity": 67316,
+    "Index": 191
+  },
+  {
+    "Type": "Education",
+    "Quantity": 6367,
+    "Index": 192
+  },
+  {
+    "Type": "Education",
+    "Quantity": 11376,
+    "Index": 193
+  },
+  {
+    "Type": "Education",
+    "Quantity": 3449,
+    "Index": 194
+  },
+  {
+    "Type": "Education",
+    "Quantity": 26582,
+    "Index": 195
+  },
+  {
+    "Type": "Education",
+    "Quantity": 77579,
+    "Index": 196
+  },
+  {
+    "Type": "Education",
+    "Quantity": 8036,
+    "Index": 197
+  },
+  {
+    "Type": "Education",
+    "Quantity": 3262,
+    "Index": 198
+  },
+  {
+    "Type": "Education",
+    "Quantity": 28107,
+    "Index": 199
+  },
+  {
+    "Type": "Education",
+    "Quantity": 24163,
+    "Index": 200
+  },
+  {
+    "Type": "Education",
+    "Quantity": 6271,
+    "Index": 201
+  },
+  {
+    "Type": "Education",
+    "Quantity": 24567,
+    "Index": 202
+  },
+  {
+    "Type": "Education",
+    "Quantity": 1446,
+    "Index": 203
+  },
+  {
+    "Type": "State 1",
+    "Quantity": 19746,
+    "Index": 204
+  },
+  {
+    "Type": "State 2",
+    "Quantity": 4929,
+    "Index": 205
+  },
+  {
+    "Type": "State 3",
+    "Quantity": 25123,
+    "Index": 206
+  },
+  {
+    "Type": "State 4",
+    "Quantity": 10494,
+    "Index": 207
+  },
+  {
+    "Type": "State 5",
+    "Quantity": 198300,
+    "Index": 208
+  },
+  {
+    "Type": "State 6",
+    "Quantity": 21580,
+    "Index": 209
+  },
+  {
+    "Type": "State 7",
+    "Quantity": 18668,
+    "Index": 210
+  },
+  {
+    "Type": "State 8",
+    "Quantity": 4945,
+    "Index": 211
+  },
+  {
+    "Type": "State 9",
+    "Quantity": 2604,
+    "Index": 212
+  },
+  {
+    "Type": "State 10",
+    "Quantity": 73926,
+    "Index": 213
+  },
+  {
+    "Type": "State 11",
+    "Quantity": 36847,
+    "Index": 214
+  },
+  {
+    "Type": "State 12",
+    "Quantity": 6215,
+    "Index": 215
+  },
+  {
+    "Type": "State 13",
+    "Quantity": 6086,
+    "Index": 216
+  },
+  {
+    "Type": "State 14",
+    "Quantity": 55218,
+    "Index": 217
+  },
+  {
+    "Type": "State 15",
+    "Quantity": 22560,
+    "Index": 218
+  },
+  {
+    "Type": "State 16",
+    "Quantity": 14668,
+    "Index": 219
+  },
+  {
+    "Type": "State 17",
+    "Quantity": 13064,
+    "Index": 220
+  },
+  {
+    "Type": "State 18",
+    "Quantity": 16601,
+    "Index": 221
+  },
+  {
+    "Type": "State 19",
+    "Quantity": 19579,
+    "Index": 222
+  },
+  {
+    "Type": "State 20",
+    "Quantity": 5229,
+    "Index": 223
+  },
+  {
+    "Type": "State 21",
+    "Quantity": 26724,
+    "Index": 224
+  },
+  {
+    "Type": "State 22",
+    "Quantity": 30242,
+    "Index": 225
+  },
+  {
+    "Type": "State 23",
+    "Quantity": 41097,
+    "Index": 226
+  },
+  {
+    "Type": "State 24",
+    "Quantity": 24204,
+    "Index": 227
+  },
+  {
+    "Type": "State 25",
+    "Quantity": 12245,
+    "Index": 228
+  },
+  {
+    "Type": "State 26",
+    "Quantity": 23833,
+    "Index": 229
+  },
+  {
+    "Type": "State 27",
+    "Quantity": 4087,
+    "Index": 230
+  },
+  {
+    "Type": "State 28",
+    "Quantity": 9217,
+    "Index": 231
+  },
+  {
+    "Type": "State 29",
+    "Quantity": 11411,
+    "Index": 232
+  },
+  {
+    "Type": "State 30",
+    "Quantity": 5473,
+    "Index": 233
+  },
+  {
+    "Type": "State 31",
+    "Quantity": 48736,
+    "Index": 234
+  },
+  {
+    "Type": "State 32",
+    "Quantity": 10840,
+    "Index": 235
+  },
+  {
+    "Type": "State 33",
+    "Quantity": 120780,
+    "Index": 236
+  },
+  {
+    "Type": "State 34",
+    "Quantity": 42453,
+    "Index": 237
+  },
+  {
+    "Type": "State 35",
+    "Quantity": 3213,
+    "Index": 238
+  },
+  {
+    "Type": "State 36",
+    "Quantity": 47504,
+    "Index": 239
+  },
+  {
+    "Type": "State 37",
+    "Quantity": 18104,
+    "Index": 240
+  },
+  {
+    "Type": "State 38",
+    "Quantity": 17753,
+    "Index": 241
+  },
+  {
+    "Type": "State 39",
+    "Quantity": 49444,
+    "Index": 242
+  },
+  {
+    "Type": "State 40",
+    "Quantity": 4427,
+    "Index": 243
+  },
+  {
+    "Type": "State 41",
+    "Quantity": 20449,
+    "Index": 244
+  },
+  {
+    "Type": "State 42",
+    "Quantity": 3487,
+    "Index": 245
+  },
+  {
+    "Type": "State 43",
+    "Quantity": 24173,
+    "Index": 246
+  },
+  {
+    "Type": "State 44",
+    "Quantity": 101670,
+    "Index": 247
+  },
+  {
+    "Type": "State 45",
+    "Quantity": 11254,
+    "Index": 248
+  },
+  {
+    "Type": "State 46",
+    "Quantity": 2864,
+    "Index": 249
+  },
+  {
+    "Type": "State 47",
+    "Quantity": 35173,
+    "Index": 250
+  },
+  {
+    "Type": "State 48",
+    "Quantity": 36816,
+    "Index": 251
+  },
+  {
+    "Type": "State 49",
+    "Quantity": 7405,
+    "Index": 252
+  },
+  {
+    "Type": "State 50",
+    "Quantity": 26392,
+    "Index": 253
+  },
+  {
+    "Type": "State 51",
+    "Quantity": 3939,
+    "Index": 254
   }
 ]

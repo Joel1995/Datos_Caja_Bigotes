@@ -1,257 +1,512 @@
 [
   {
-    "State": 100,
-    "Manufacturing": 25444,
+    "State": "Manufacturing",
+    "Variable": 25444,
     "Index": 0
   },
   {
-    "State": 100,
-    "Manufacturing": 1867,
+    "State": "Manufacturing",
+    "Variable": 1867,
     "Index": 1
   },
   {
-    "State": 100,
-    "Manufacturing": 20026,
+    "State": "Manufacturing",
+    "Variable": 20026,
     "Index": 2
   },
   {
-    "State": 100,
-    "Manufacturing": 14010,
+    "State": "Manufacturing",
+    "Variable": 14010,
     "Index": 3
   },
   {
-    "State": 100,
-    "Manufacturing": 229479,
+    "State": "Manufacturing",
+    "Variable": 229479,
     "Index": 4
   },
   {
-    "State": 100,
-    "Manufacturing": 19429,
+    "State": "Manufacturing",
+    "Variable": 19429,
     "Index": 5
   },
   {
-    "State": 100,
-    "Manufacturing": 27665,
+    "State": "Manufacturing",
+    "Variable": 27665,
     "Index": 6
   },
   {
-    "State": 100,
-    "Manufacturing": 4732,
+    "State": "Manufacturing",
+    "Variable": 4732,
     "Index": 7
   },
   {
-    "State": 100,
-    "Manufacturing": 238,
+    "State": "Manufacturing",
+    "Variable": 238,
     "Index": 8
   },
   {
-    "State": 100,
-    "Manufacturing": 38284,
+    "State": "Manufacturing",
+    "Variable": 38284,
     "Index": 9
   },
   {
-    "State": 100,
-    "Manufacturing": 45153,
+    "State": "Manufacturing",
+    "Variable": 45153,
     "Index": 10
   },
   {
-    "State": 100,
-    "Manufacturing": 1302,
+    "State": "Manufacturing",
+    "Variable": 1302,
     "Index": 11
   },
   {
-    "State": 100,
-    "Manufacturing": 6326,
+    "State": "Manufacturing",
+    "Variable": 6326,
     "Index": 12
   },
   {
-    "State": 100,
-    "Manufacturing": 81372,
+    "State": "Manufacturing",
+    "Variable": 81372,
     "Index": 13
   },
   {
-    "State": 100,
-    "Manufacturing": 69476,
+    "State": "Manufacturing",
+    "Variable": 69476,
     "Index": 14
   },
   {
-    "State": 100,
-    "Manufacturing": 25488,
+    "State": "Manufacturing",
+    "Variable": 25488,
     "Index": 15
   },
   {
-    "State": 100,
-    "Manufacturing": 17489,
+    "State": "Manufacturing",
+    "Variable": 17489,
     "Index": 16
   },
   {
-    "State": 100,
-    "Manufacturing": 24673,
+    "State": "Manufacturing",
+    "Variable": 24673,
     "Index": 17
   },
   {
-    "State": 100,
-    "Manufacturing": 39321,
+    "State": "Manufacturing",
+    "Variable": 39321,
     "Index": 18
   },
   {
-    "State": 100,
-    "Manufacturing": 5668,
+    "State": "Manufacturing",
+    "Variable": 5668,
     "Index": 19
   },
   {
-    "State": 100,
-    "Manufacturing": 18895,
+    "State": "Manufacturing",
+    "Variable": 18895,
     "Index": 20
   },
   {
-    "State": 100,
-    "Manufacturing": 40306,
+    "State": "Manufacturing",
+    "Variable": 40306,
     "Index": 21
   },
   {
-    "State": 100,
-    "Manufacturing": 53524,
+    "State": "Manufacturing",
+    "Variable": 53524,
     "Index": 22
   },
   {
-    "State": 100,
-    "Manufacturing": 35641,
+    "State": "Manufacturing",
+    "Variable": 35641,
     "Index": 23
   },
   {
-    "State": 100,
-    "Manufacturing": 13603,
+    "State": "Manufacturing",
+    "Variable": 13603,
     "Index": 24
   },
   {
-    "State": 100,
-    "Manufacturing": 31395,
+    "State": "Manufacturing",
+    "Variable": 31395,
     "Index": 25
   },
   {
-    "State": 100,
-    "Manufacturing": 1738,
+    "State": "Manufacturing",
+    "Variable": 1738,
     "Index": 26
   },
   {
-    "State": 100,
-    "Manufacturing": 10579,
+    "State": "Manufacturing",
+    "Variable": 10579,
     "Index": 27
   },
   {
-    "State": 100,
-    "Manufacturing": 5377,
+    "State": "Manufacturing",
+    "Variable": 5377,
     "Index": 28
   },
   {
-    "State": 100,
-    "Manufacturing": 6937,
+    "State": "Manufacturing",
+    "Variable": 6937,
     "Index": 29
   },
   {
-    "State": 100,
-    "Manufacturing": 46021,
+    "State": "Manufacturing",
+    "Variable": 46021,
     "Index": 30
   },
   {
-    "State": 100,
-    "Manufacturing": 5199,
+    "State": "Manufacturing",
+    "Variable": 5199,
     "Index": 31
   },
   {
-    "State": 100,
-    "Manufacturing": 70415,
+    "State": "Manufacturing",
+    "Variable": 70415,
     "Index": 32
   },
   {
-    "State": 100,
-    "Manufacturing": 87733,
+    "State": "Manufacturing",
+    "Variable": 87733,
     "Index": 33
   },
   {
-    "State": 100,
-    "Manufacturing": 2649,
+    "State": "Manufacturing",
+    "Variable": 2649,
     "Index": 34
   },
   {
-    "State": 100,
-    "Manufacturing": 75757,
+    "State": "Manufacturing",
+    "Variable": 75757,
     "Index": 35
   },
   {
-    "State": 100,
-    "Manufacturing": 15548,
+    "State": "Manufacturing",
+    "Variable": 15548,
     "Index": 36
   },
   {
-    "State": 100,
-    "Manufacturing": 46486,
+    "State": "Manufacturing",
+    "Variable": 46486,
     "Index": 37
   },
   {
-    "State": 100,
-    "Manufacturing": 73357,
+    "State": "Manufacturing",
+    "Variable": 73357,
     "Index": 38
   },
   {
-    "State": 100,
-    "Manufacturing": 3724,
+    "State": "Manufacturing",
+    "Variable": 3724,
     "Index": 39
   },
   {
-    "State": 100,
-    "Manufacturing": 25106,
+    "State": "Manufacturing",
+    "Variable": 25106,
     "Index": 40
   },
   {
-    "State": 100,
-    "Manufacturing": 3184,
+    "State": "Manufacturing",
+    "Variable": 3184,
     "Index": 41
   },
   {
-    "State": 100,
-    "Manufacturing": 38465,
+    "State": "Manufacturing",
+    "Variable": 38465,
     "Index": 42
   },
   {
-    "State": 100,
-    "Manufacturing": 153204,
+    "State": "Manufacturing",
+    "Variable": 153204,
     "Index": 43
   },
   {
-    "State": 100,
-    "Manufacturing": 15609,
+    "State": "Manufacturing",
+    "Variable": 15609,
     "Index": 44
   },
   {
-    "State": 100,
-    "Manufacturing": 2632,
+    "State": "Manufacturing",
+    "Variable": 2632,
     "Index": 45
   },
   {
-    "State": 100,
-    "Manufacturing": 36951,
+    "State": "Manufacturing",
+    "Variable": 36951,
     "Index": 46
   },
   {
-    "State": 100,
-    "Manufacturing": 47518,
+    "State": "Manufacturing",
+    "Variable": 47518,
     "Index": 47
   },
   {
-    "State": 100,
-    "Manufacturing": 6775,
+    "State": "Manufacturing",
+    "Variable": 6775,
     "Index": 48
   },
   {
-    "State": 100,
-    "Manufacturing": 45247,
+    "State": "Manufacturing",
+    "Variable": 45247,
     "Index": 49
   },
   {
-    "State": 100,
-    "Manufacturing": 1624,
+    "State": "Manufacturing",
+    "Variable": 1624,
     "Index": 50
+  },
+  {
+    "State": "Education",
+    "Variable": 12957,
+    "Index": 51
+  },
+  {
+    "State": "Education",
+    "Variable": 2757,
+    "Index": 52
+  },
+  {
+    "State": "Education",
+    "Variable": 22549,
+    "Index": 53
+  },
+  {
+    "State": "Education",
+    "Variable": 8432,
+    "Index": 54
+  },
+  {
+    "State": "Education",
+    "Variable": 133118,
+    "Index": 55
+  },
+  {
+    "State": "Education",
+    "Variable": 17061,
+    "Index": 56
+  },
+  {
+    "State": "Education",
+    "Variable": 21758,
+    "Index": 57
+  },
+  {
+    "State": "Education",
+    "Variable": 4075,
+    "Index": 58
+  },
+  {
+    "State": "Education",
+    "Variable": 7659,
+    "Index": 59
+  },
+  {
+    "State": "Education",
+    "Variable": 67777,
+    "Index": 60
+  },
+  {
+    "State": "Education",
+    "Variable": 30154,
+    "Index": 61
+  },
+  {
+    "State": "Education",
+    "Variable": 5006,
+    "Index": 62
+  },
+  {
+    "State": "Education",
+    "Variable": 4422,
+    "Index": 63
+  },
+  {
+    "State": "Education",
+    "Variable": 54706,
+    "Index": 64
+  },
+  {
+    "State": "Education",
+    "Variable": 23677,
+    "Index": 65
+  },
+  {
+    "State": "Education",
+    "Variable": 10755,
+    "Index": 66
+  },
+  {
+    "State": "Education",
+    "Variable": 10041,
+    "Index": 67
+  },
+  {
+    "State": "Education",
+    "Variable": 14135,
+    "Index": 68
+  },
+  {
+    "State": "Education",
+    "Variable": 14951,
+    "Index": 69
+  },
+  {
+    "State": "Education",
+    "Variable": 6568,
+    "Index": 70
+  },
+  {
+    "State": "Education",
+    "Variable": 26648,
+    "Index": 71
+  },
+  {
+    "State": "Education",
+    "Variable": 46553,
+    "Index": 72
+  },
+  {
+    "State": "Education",
+    "Variable": 37502,
+    "Index": 73
+  },
+  {
+    "State": "Education",
+    "Variable": 26245,
+    "Index": 74
+  },
+  {
+    "State": "Education",
+    "Variable": 7567,
+    "Index": 75
+  },
+  {
+    "State": "Education",
+    "Variable": 23684,
+    "Index": 76
+  },
+  {
+    "State": "Education",
+    "Variable": 3494,
+    "Index": 77
+  },
+  {
+    "State": "Education",
+    "Variable": 7211,
+    "Index": 78
+  },
+  {
+    "State": "Education",
+    "Variable": 7144,
+    "Index": 79
+  },
+  {
+    "State": "Education",
+    "Variable": 7060,
+    "Index": 80
+  },
+  {
+    "State": "Education",
+    "Variable": 41650,
+    "Index": 81
+  },
+  {
+    "State": "Education",
+    "Variable": 6049,
+    "Index": 82
+  },
+  {
+    "State": "Education",
+    "Variable": 105701,
+    "Index": 83
+  },
+  {
+    "State": "Education",
+    "Variable": 32216,
+    "Index": 84
+  },
+  {
+    "State": "Education",
+    "Variable": 2762,
+    "Index": 85
+  },
+  {
+    "State": "Education",
+    "Variable": 47646,
+    "Index": 86
+  },
+  {
+    "State": "Education",
+    "Variable": 11048,
+    "Index": 87
+  },
+  {
+    "State": "Education",
+    "Variable": 14602,
+    "Index": 88
+  },
+  {
+    "State": "Education",
+    "Variable": 67316,
+    "Index": 89
+  },
+  {
+    "State": "Education",
+    "Variable": 6367,
+    "Index": 90
+  },
+  {
+    "State": "Education",
+    "Variable": 11376,
+    "Index": 91
+  },
+  {
+    "State": "Education",
+    "Variable": 3449,
+    "Index": 92
+  },
+  {
+    "State": "Education",
+    "Variable": 26582,
+    "Index": 93
+  },
+  {
+    "State": "Education",
+    "Variable": 77579,
+    "Index": 94
+  },
+  {
+    "State": "Education",
+    "Variable": 8036,
+    "Index": 95
+  },
+  {
+    "State": "Education",
+    "Variable": 3262,
+    "Index": 96
+  },
+  {
+    "State": "Education",
+    "Variable": 28107,
+    "Index": 97
+  },
+  {
+    "State": "Education",
+    "Variable": 24163,
+    "Index": 98
+  },
+  {
+    "State": "Education",
+    "Variable": 6271,
+    "Index": 99
+  },
+  {
+    "State": "Education",
+    "Variable": 24567,
+    "Index": 100
+  },
+  {
+    "State": "Education",
+    "Variable": 1446,
+    "Index": 101
   }
 ]
